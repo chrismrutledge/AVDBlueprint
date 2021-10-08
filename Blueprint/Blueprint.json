@@ -351,10 +351,7 @@
           "21h1-evd",
           "21h1-evd-g2",
           "win11-21h2-avd",
-          "win11-21h2-avd-m365",
-          "win11-21h2-ent",
-          "win11-21h2-ent-cpc-m365",
-          "win11-21h2-pro"
+          "win11-21h2-avd-m365"
       ],
         "metadata": {
           "displayName": "Azure Gallery image SKU",
